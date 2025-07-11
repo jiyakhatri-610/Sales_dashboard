@@ -1,3 +1,4 @@
+<img width="1552" height="825" alt="Screenshot 2025-07-11 120838" src="https://github.com/user-attachments/assets/411f1351-5460-486d-bba0-69b6ec857711" />
 # 🌍 Global Sales Dashboard in Tableau
 
 This project presents a **Tableau dashboard** showcasing sales distribution across countries using different color shades on a world map.
